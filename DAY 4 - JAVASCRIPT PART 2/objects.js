@@ -37,3 +37,4 @@ console.log(person.homeAddress.street);
 // Object Destructuring
 const { firstName, lastName, age } = person;
 console.log(firstName);
+
