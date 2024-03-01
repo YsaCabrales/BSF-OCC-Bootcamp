@@ -1,8 +1,8 @@
 // Encapsulation
 
 class BankAccount {
-    constructor(accountNumber, balance) {
-        this.accountNumber = accountNumber;
+    constructor(accNum, balance) {
+        this.accountNumber = accNum;
         this.balance = balance;
     }
 

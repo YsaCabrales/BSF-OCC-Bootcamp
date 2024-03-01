@@ -5,6 +5,7 @@ class Animal {
         this.name = name;
     }
 }
+
 // Parent class
 class Animal {
     constructor(name) {
